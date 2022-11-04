@@ -1,0 +1,13 @@
+D:\TRIP\TRIP\bin\Debug\TRIP.exe.config
+D:\TRIP\TRIP\bin\Debug\TRIP.exe
+D:\TRIP\TRIP\bin\Debug\TRIP.pdb
+D:\TRIP\TRIP\bin\Debug\TRIP.xml
+D:\TRIP\TRIP\obj\Debug\TRIP.vbproj.AssemblyReference.cache
+D:\TRIP\TRIP\obj\Debug\TRIP.vbproj.SuggestedBindingRedirects.cache
+D:\TRIP\TRIP\obj\Debug\TRIP.Form1.resources
+D:\TRIP\TRIP\obj\Debug\TRIP.Resources.resources
+D:\TRIP\TRIP\obj\Debug\TRIP.vbproj.GenerateResource.cache
+D:\TRIP\TRIP\obj\Debug\TRIP.vbproj.CoreCompileInputs.cache
+D:\TRIP\TRIP\obj\Debug\TRIP.exe
+D:\TRIP\TRIP\obj\Debug\TRIP.xml
+D:\TRIP\TRIP\obj\Debug\TRIP.pdb
